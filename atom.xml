@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>云上车间</title>
-  
+  <subtitle>coding and Writing</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://seaman-7.github.io/"/>
-  <updated>2016-03-28T13:08:38.859Z</updated>
+  <updated>2016-03-29T12:16:12.535Z</updated>
   <id>http://seaman-7.github.io/</id>
   
   <author>
@@ -16,11 +16,56 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>盐税</title>
+    <link href="http://seaman-7.github.io/2016/03/29/%E7%9B%90%E7%A8%8E/"/>
+    <id>http://seaman-7.github.io/2016/03/29/盐税/</id>
+    <published>2016-03-29T06:07:00.000Z</published>
+    <updated>2016-03-29T12:16:12.535Z</updated>
+    
+    <content type="html">&lt;h2 id=&quot;起源：&quot;&gt;&lt;a href=&quot;#起源：&quot; class=&quot;headerlink&quot; title=&quot;起源：&quot;&gt;&lt;/a&gt;起源：&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;齐桓公：“财用不足若何？”&lt;/em&gt;&lt;br&gt;&lt;em&gt;管仲：“唯官山海之利为可而。”&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;至此，开始了中国两千多年的盐铁专卖历史。&lt;/strong&gt;&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;初探：&quot;&gt;&lt;a href=&quot;#初探：&quot; class=&quot;headerlink&quot; title=&quot;初探：&quot;&gt;&lt;/a&gt;初探：&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;计口售盐&lt;br&gt;齐国，万乘之国，千万余民。施以计口售盐，均升加以两钱，得以六千万钱也。&lt;/li&gt;
+&lt;li&gt;赋税于价&lt;br&gt;税收，恰如拔鹅毛，要想拔的时候不让鹅叫，此事应有隐蔽性，得有技巧。&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;“利民不竭而民不知”&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;充于财政&lt;br&gt;从老百姓腰包里掏钱而人们浑然不知，没有剥夺感，无由反抗。与此，也为齐桓公成就“九合诸侯，一匡天下”的霸业奠定了坚定的财政基础。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;历程：&quot;&gt;&lt;a href=&quot;#历程：&quot; class=&quot;headerlink&quot; title=&quot;历程：&quot;&gt;&lt;/a&gt;历程：&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;汉朝：&lt;br&gt;汉武帝借以富商利以盐铁，并建立起一套完整的“官产——官运——官销” 的盐铁专有实体制。&lt;/li&gt;
+&lt;li&gt;唐宋：&lt;br&gt;进入高峰期，施行“盗鬻者论以法”。&lt;/li&gt;
+&lt;li&gt;宋代：&lt;br&gt;法律更为严厉：私有贩盐十斤者，处死。&lt;/li&gt;
+&lt;li&gt;明清：&lt;br&gt;新兴产业发展快速，盐铁专卖税收占比降低。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;影响：&quot;&gt;&lt;a href=&quot;#影响：&quot; class=&quot;headerlink&quot; title=&quot;影响：&quot;&gt;&lt;/a&gt;影响：&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;统治者：&lt;/strong&gt; 为国家寻出了又一条财政来源，加强中央集权，强化君主绝对的统治地位，再次巩固家天下的统治模式。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;平民：&lt;/strong&gt; 无形中再次赋税再次加重，形成“ &lt;strong&gt;三重赋税&lt;/strong&gt; ”体制，贫民百姓生活日益困难，加大人民与统治者之间矛盾。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;我的看法：&lt;/strong&gt; 这算是管仲给挖的坑吗，间接形成的君主暴政，贻害后世千年。尽管事实如此，但本质也都是时代的产物，没有这个管仲，历史还会造就出千千万个管仲。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;起源：&quot;&gt;&lt;a href=&quot;#起源：&quot; class=&quot;headerlink&quot; title=&quot;起源：&quot;&gt;&lt;/a&gt;起源：&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;齐桓公：“财用不足若何？”&lt;/em&gt;&lt;br&gt;&lt;em&gt;管仲：“唯官山海之利为可而。”&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;至此，开始了中国两千多年的盐铁专卖历史。&lt;/strong&gt;&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="盐税" scheme="http://seaman-7.github.io/tags/%E7%9B%90%E7%A8%8E/"/>
+    
+  </entry>
+  
+  <entry>
     <title>博客</title>
     <link href="http://seaman-7.github.io/2016/03/28/%E5%8D%9A%E5%AE%A2/"/>
     <id>http://seaman-7.github.io/2016/03/28/博客/</id>
     <published>2016-03-28T04:59:24.000Z</published>
-    <updated>2016-03-28T13:08:38.859Z</updated>
+    <updated>2016-03-29T11:04:28.504Z</updated>
     
     <content type="html"></content>
     
@@ -28,6 +73,8 @@
     
     </summary>
     
+    
+      <category term="dome" scheme="http://seaman-7.github.io/tags/dome/"/>
     
   </entry>
   
