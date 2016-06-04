@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>云上</title>
+  <title>柒号</title>
   <subtitle>一个记笔记的地方</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://seaman-7.github.io/"/>
-  <updated>2016-05-17T13:03:06.322Z</updated>
+  <updated>2016-06-02T05:00:56.801Z</updated>
   <id>http://seaman-7.github.io/</id>
   
   <author>
@@ -14,6 +14,144 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Web设计(Head First)--笔记</title>
+    <link href="http://seaman-7.github.io/2016/05/24/Web%E8%AE%BE%E8%AE%A1-Head-First-%E7%AC%94%E8%AE%B0/"/>
+    <id>http://seaman-7.github.io/2016/05/24/Web设计-Head-First-笔记/</id>
+    <published>2016-05-24T08:50:57.000Z</published>
+    <updated>2016-06-02T05:00:56.801Z</updated>
+    
+    <content type="html">&lt;h2 id=&quot;序言&quot;&gt;&lt;a href=&quot;#序言&quot; class=&quot;headerlink&quot; title=&quot;序言&quot;&gt;&lt;/a&gt;序言&lt;/h2&gt;&lt;h3 id=&quot;元认知：想一想如何思考&quot;&gt;&lt;a href=&quot;#元认知：想一想如何思考&quot; class=&quot;headerlink&quot; title=&quot;元认知：想一想如何思考&quot;&gt;&lt;/a&gt;元认知：想一想如何思考&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;注释：元认知（Metacognition），教育心理学专有名词。管理学习和认知的过程，增加学习效果。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;ol&gt;
+&lt;li&gt;更深入思考问题，注重理解记忆。&lt;/li&gt;
+&lt;li&gt;更集中注意力，从多角度考证问题最佳解。&lt;/li&gt;
+&lt;li&gt;潜意识激发对新知识的渴望，获取更多学习主动性。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&quot;驯服大脑的方法&quot;&gt;&lt;a href=&quot;#驯服大脑的方法&quot; class=&quot;headerlink&quot; title=&quot;驯服大脑的方法&quot;&gt;&lt;/a&gt;驯服大脑的方法&lt;/h3&gt;&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;慢慢来，理解越多，需要强记的就越少。&lt;/li&gt;
+&lt;li&gt;勤做练习，写下心得。&lt;/li&gt;
+&lt;li&gt;认真阅读“没有蠢问题”单元&lt;/li&gt;
+&lt;li&gt;将阅读本书作为睡前最后一件事，或者至少当作睡前最后一件具有挑战性的事。&lt;/li&gt;
+&lt;li&gt;谈论它，大声谈论它。&lt;/li&gt;
+&lt;li&gt;喝水，多喝水。&lt;/li&gt;
+&lt;li&gt;倾听大脑的声音。&lt;/li&gt;
+&lt;li&gt;用心感受！&lt;/li&gt;
+&lt;li&gt;动手设计网站吧！&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&quot;一-建立美观网页&quot;&gt;&lt;a href=&quot;#一-建立美观网页&quot; class=&quot;headerlink&quot; title=&quot;一.建立美观网页&quot;&gt;&lt;/a&gt;一.建立美观网页&lt;/h2&gt;&lt;h3 id=&quot;画出蓝图是第一要务&quot;&gt;&lt;a href=&quot;#画出蓝图是第一要务&quot; class=&quot;headerlink&quot; title=&quot;画出蓝图是第一要务&quot;&gt;&lt;/a&gt;画出蓝图是第一要务&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;信息架构——IA&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;注释：Information Architecture,简称IA，是一种过程，主要将网站分解为多个块(chunk)，然后依内容块的&lt;strong&gt;逻辑关系&lt;/strong&gt;分 等级 地将他们组织起来。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;典型网站蓝图信息架构:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.baidu.com&quot; alt=&quot;dome&quot;&gt;&lt;/p&gt;
+&lt;h3 id=&quot;产品迭代-iterative&quot;&gt;&lt;a href=&quot;#产品迭代-iterative&quot; class=&quot;headerlink&quot; title=&quot;产品迭代(iterative)&quot;&gt;&lt;/a&gt;产品迭代(iterative)&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;注释：一种设计方法论，在工作过程中测试、分析，然后进一步琢磨作品的原型并加以改进，过程中的每一个阶段都会重复每一个步骤，如此&lt;strong&gt;循环&lt;/strong&gt;，直至得到客户满意的结果。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&quot;step-简易-：&quot;&gt;&lt;a href=&quot;#step-简易-：&quot; class=&quot;headerlink&quot; title=&quot;step(简易)：&quot;&gt;&lt;/a&gt;step(简易)：&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;准备阶段：信息架构、分镜表、蓝图&lt;/li&gt;
+&lt;li&gt;导航系统：基于IA的逻辑从属关系&lt;/li&gt;
+&lt;li&gt;网页布局：前期纸笔作业，后期HTML、CSS&lt;/li&gt;
+&lt;li&gt;网站写作：填写具有“可扫读性”内容&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&quot;二-前期制作&quot;&gt;&lt;a href=&quot;#二-前期制作&quot; class=&quot;headerlink&quot; title=&quot;二.前期制作&quot;&gt;&lt;/a&gt;二.前期制作&lt;/h2&gt;&lt;h3 id=&quot;视觉隐喻&quot;&gt;&lt;a href=&quot;#视觉隐喻&quot; class=&quot;headerlink&quot; title=&quot;视觉隐喻&quot;&gt;&lt;/a&gt;视觉隐喻&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;注释：与内容相关事物视觉元素，例如图片、字形、色彩以强化主题。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&quot;tips：&quot;&gt;&lt;a href=&quot;#tips：&quot; class=&quot;headerlink&quot; title=&quot;tips：&quot;&gt;&lt;/a&gt;tips：&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;字形 : &lt;a href=&quot;http://tool.oschina.net/commons?type=8&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://tool.oschina.net/commons?type=8&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;调色板 : &lt;a href=&quot;https://color.adobe.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;https://color.adobe.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;七牛图床 : &lt;a href=&quot;http://qiniupicbed.sinaapp.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://qiniupicbed.sinaapp.com/&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.baidu.com&quot; alt=&quot;dome&quot;&gt;`&lt;/p&gt;
+&lt;h2 id=&quot;三-组织网站&quot;&gt;&lt;a href=&quot;#三-组织网站&quot; class=&quot;headerlink&quot; title=&quot;三.组织网站&quot;&gt;&lt;/a&gt;三.组织网站&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;HF：The everything is for customer&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&quot;卡片分类：简短且具描述性&quot;&gt;&lt;a href=&quot;#卡片分类：简短且具描述性&quot; class=&quot;headerlink&quot; title=&quot;卡片分类：简短且具描述性&quot;&gt;&lt;/a&gt;卡片分类：简短且具描述性&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.baidu.com&quot; alt=&quot;dome&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.baidu.com&quot; alt=&quot;dome&quot;&gt;&lt;/p&gt;
+&lt;h4 id=&quot;注意：&quot;&gt;&lt;a href=&quot;#注意：&quot; class=&quot;headerlink&quot; title=&quot;注意：&quot;&gt;&lt;/a&gt;注意：&lt;/h4&gt;&lt;ol&gt;
+&lt;li&gt;对于链接元素，必须从&amp;lt;a&amp;gt;标签设定色彩。&lt;/li&gt;
+&lt;li&gt;区别 display:inline 与 float:left 。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;四-布局与设计&quot;&gt;&lt;a href=&quot;#四-布局与设计&quot; class=&quot;headerlink&quot; title=&quot;四.布局与设计&quot;&gt;&lt;/a&gt;四.布局与设计&lt;/h2&gt;&lt;h3 id=&quot;设计为客户所用！&quot;&gt;&lt;a href=&quot;#设计为客户所用！&quot; class=&quot;headerlink&quot; title=&quot;设计为客户所用！&quot;&gt;&lt;/a&gt;设计为客户所用！&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;建设角色：用户代表；&lt;/li&gt;
+&lt;li&gt;屏幕分辨率：择理想、兼多数；&lt;/li&gt;
+&lt;li&gt;黄金比例(Golden Ratio)：R=0.62 近似 &lt;strong&gt;3:1&lt;/strong&gt; 。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&quot;设技要点：&quot;&gt;&lt;a href=&quot;#设技要点：&quot; class=&quot;headerlink&quot; title=&quot;设技要点：&quot;&gt;&lt;/a&gt;设技要点：&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;margin:0 auto;   //默认自适屏设定。&lt;/li&gt;
+&lt;li&gt;分辨率越低，事物显得越大，占用面积更多。&lt;/li&gt;
+&lt;li&gt;黄金比例更赏心悦目，后继出 &lt;strong&gt;三分法&lt;/strong&gt; 同理&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&quot;典型标签清除设定&quot;&gt;&lt;a href=&quot;#典型标签清除设定&quot; class=&quot;headerlink&quot; title=&quot;典型标签清除设定:&quot;&gt;&lt;/a&gt;典型标签清除设定:&lt;/h3&gt;&lt;figure class=&quot;highlight css&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;10&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;selector-tag&quot;&gt;body&lt;/span&gt;&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;	&lt;span class=&quot;attribute&quot;&gt;margin&lt;/span&gt;:&lt;span class=&quot;number&quot;&gt;0&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;	&lt;span class=&quot;attribute&quot;&gt;padding&lt;/span&gt;:&lt;span class=&quot;number&quot;&gt;0&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;	&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;selector-tag&quot;&gt;li&lt;/span&gt;&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;	&lt;span class=&quot;attribute&quot;&gt;list-style-type&lt;/span&gt;:none;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;	&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;selector-tag&quot;&gt;a&lt;/span&gt;&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;	&lt;span class=&quot;attribute&quot;&gt;text-decoration&lt;/span&gt;:none;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;	&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;h2 id=&quot;五-运用色彩设计&quot;&gt;&lt;a href=&quot;#五-运用色彩设计&quot; class=&quot;headerlink&quot; title=&quot;五.运用色彩设计&quot;&gt;&lt;/a&gt;五.运用色彩设计&lt;/h2&gt;&lt;h3 id=&quot;色彩具有强烈的情绪效应&quot;&gt;&lt;a href=&quot;#色彩具有强烈的情绪效应&quot; class=&quot;headerlink&quot; title=&quot;色彩具有强烈的情绪效应&quot;&gt;&lt;/a&gt;色彩具有强烈的情绪效应&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.baidu.com&quot; alt=&quot;dome&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;tips：&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;icon  ：图标&lt;br&gt;hex   ：16进制&lt;br&gt;saturation    ：饱和度&lt;br&gt;contrasting   ：对比&lt;br&gt;dominant color    ：主色&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;六-智慧导航&quot;&gt;&lt;a href=&quot;#六-智慧导航&quot; class=&quot;headerlink&quot; title=&quot;六.智慧导航&quot;&gt;&lt;/a&gt;六.智慧导航&lt;/h2&gt;&lt;h3 id=&quot;良好的导航第一步就是良好的IA&quot;&gt;&lt;a href=&quot;#良好的导航第一步就是良好的IA&quot; class=&quot;headerlink&quot; title=&quot;良好的导航第一步就是良好的IA&quot;&gt;&lt;/a&gt;良好的导航第一步就是良好的IA&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;语义&lt;/strong&gt;：逻辑关系清晰，从属条理正确。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;视觉&lt;/strong&gt;：视觉感官良好，色彩搭配与主题呼应。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&quot;名称的魔力：&quot;&gt;&lt;a href=&quot;#名称的魔力：&quot; class=&quot;headerlink&quot; title=&quot;名称的魔力：&quot;&gt;&lt;/a&gt;名称的魔力：&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;保持名称简短。&lt;/li&gt;
+&lt;li&gt;保持名称具有可描述性。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;tips：&lt;/strong&gt; 可用卡片分类法。&lt;/p&gt;
+&lt;h3 id=&quot;更便利布局设定：&quot;&gt;&lt;a href=&quot;#更便利布局设定：&quot; class=&quot;headerlink&quot; title=&quot;更便利布局设定：&quot;&gt;&lt;/a&gt;更便利布局设定：&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;为文字配上图标，而不是图标配上文字。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;七-网站写作&quot;&gt;&lt;a href=&quot;#七-网站写作&quot; class=&quot;headerlink&quot; title=&quot;七.网站写作&quot;&gt;&lt;/a&gt;七.网站写作&lt;/h2&gt;&lt;h3 id=&quot;问题在于文字&quot;&gt;&lt;a href=&quot;#问题在于文字&quot; class=&quot;headerlink&quot; title=&quot;问题在于文字&quot;&gt;&lt;/a&gt;问题在于文字&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.baidu.com&quot; alt=&quot;dome&quot;&gt;&lt;/p&gt;
+&lt;h3 id=&quot;编号用于功能上的重要性而非尺寸&quot;&gt;&lt;a href=&quot;#编号用于功能上的重要性而非尺寸&quot; class=&quot;headerlink&quot; title=&quot;编号用于功能上的重要性而非尺寸&quot;&gt;&lt;/a&gt;编号用于功能上的重要性而非尺寸&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;&amp;lt;h1&amp;gt;、&amp;lt;h2&amp;gt;用于主标题；&lt;/li&gt;
+&lt;li&gt;子标题采用较低层次；&lt;/li&gt;
+&lt;li&gt;css可以把较低层次标题设为较大字号，但注意语义正确，规范使用。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&quot;字体&quot;&gt;&lt;a href=&quot;#字体&quot; class=&quot;headerlink&quot; title=&quot;字体&quot;&gt;&lt;/a&gt;字体&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Serif(衬线字体)&lt;/strong&gt;：主笔画延伸&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;用于：大标题&lt;/li&gt;
+&lt;li&gt;字体：Times New Roman&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sans-Serif(非衬线字体)&lt;/strong&gt;：字体均衡&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;用于：主要内容&lt;/li&gt;
+&lt;li&gt;字体：Helvetica , Arial&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;tips：&lt;/strong&gt; &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;标题比文章更具可扫读性&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;八-可访问性&quot;&gt;&lt;a href=&quot;#八-可访问性&quot; class=&quot;headerlink&quot; title=&quot;八.可访问性&quot;&gt;&lt;/a&gt;八.可访问性&lt;/h2&gt;&lt;h3 id=&quot;WCAG&quot;&gt;&lt;a href=&quot;#WCAG&quot; class=&quot;headerlink&quot; title=&quot;WCAG&quot;&gt;&lt;/a&gt;WCAG&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;注释：全称 Web Content Accessibility Guideline (Web 内容可访问方针)。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&quot;Audio-2-Go案例&quot;&gt;&lt;a href=&quot;#Audio-2-Go案例&quot; class=&quot;headerlink&quot; title=&quot;Audio-2-Go案例&quot;&gt;&lt;/a&gt;Audio-2-Go案例&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;盲人&lt;/strong&gt;：&amp;lt;img&amp;gt;中用Alt标签，longdecs进行长文介绍。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;无鼠标&lt;/strong&gt;：添加tabindex=”num”,编辑序列。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;九&quot;&gt;&lt;a href=&quot;#九&quot; class=&quot;headerlink&quot; title=&quot;九.&quot;&gt;&lt;/a&gt;九.&lt;/h2&gt;&lt;h2 id=&quot;十&quot;&gt;&lt;a href=&quot;#十&quot; class=&quot;headerlink&quot; title=&quot;十.&quot;&gt;&lt;/a&gt;十.&lt;/h2&gt;&lt;h2 id=&quot;十一&quot;&gt;&lt;a href=&quot;#十一&quot; class=&quot;headerlink&quot; title=&quot;十一.&quot;&gt;&lt;/a&gt;十一.&lt;/h2&gt;</content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;序言&quot;&gt;&lt;a href=&quot;#序言&quot; class=&quot;headerlink&quot; title=&quot;序言&quot;&gt;&lt;/a&gt;序言&lt;/h2&gt;&lt;h3 id=&quot;元认知：想一想如何思考&quot;&gt;&lt;a href=&quot;#元认知：想一想如何思考&quot; class=&quot;headerlink&quot; title=&quot;元认知：想一想如何思考&quot;&gt;&lt;/a&gt;元认知：想一想如何思考&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;注释：元认知（Metacognition），教育心理学专有名词。管理学习和认知的过程，增加学习效果。&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="Web前端" scheme="http://seaman-7.github.io/categories/Web%E5%89%8D%E7%AB%AF/"/>
+    
+    
+      <category term="html" scheme="http://seaman-7.github.io/tags/html/"/>
+    
+      <category term="css" scheme="http://seaman-7.github.io/tags/css/"/>
+    
+  </entry>
   
   <entry>
     <title>Dome Test</title>
@@ -65,12 +203,13 @@
     <link href="http://seaman-7.github.io/2016/03/29/%E7%9B%90%E7%A8%8E/"/>
     <id>http://seaman-7.github.io/2016/03/29/盐税/</id>
     <published>2016-03-29T06:07:00.000Z</published>
-    <updated>2016-05-12T10:07:51.490Z</updated>
+    <updated>2016-05-29T03:49:05.901Z</updated>
     
     <content type="html">&lt;h2 id=&quot;起源：&quot;&gt;&lt;a href=&quot;#起源：&quot; class=&quot;headerlink&quot; title=&quot;起源：&quot;&gt;&lt;/a&gt;起源：&lt;/h2&gt;&lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;齐桓公：“财用不足若何？”&lt;/em&gt;&lt;br&gt;&lt;em&gt;管仲：“唯官山海之利为可而。”&lt;/em&gt;&lt;br&gt;&lt;strong&gt;至此，开始了中国两千多年的盐铁专卖历史。&lt;/strong&gt;&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&quot;初探：&quot;&gt;&lt;a href=&quot;#初探：&quot; class=&quot;headerlink&quot; title=&quot;初探：&quot;&gt;&lt;/a&gt;初探：&lt;/h2&gt;&lt;/blockquote&gt;
-&lt;ul&gt;
+&lt;p&gt;&lt;em&gt;齐桓公：“财用不足若何？”&lt;/em&gt;&lt;br&gt;&lt;em&gt;管仲：“唯官山海之利为可而。”&lt;/em&gt;&lt;br&gt;&lt;strong&gt;至此，开始了中国两千多年的盐铁专卖历史。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;初探：&quot;&gt;&lt;a href=&quot;#初探：&quot; class=&quot;headerlink&quot; title=&quot;初探：&quot;&gt;&lt;/a&gt;初探：&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;计口售盐&lt;br&gt;齐国，万乘之国，千万余民。施以计口售盐，均升加以两钱，得以六千万钱也。&lt;/li&gt;
 &lt;li&gt;赋税于价&lt;br&gt;税收，恰如拔鹅毛，要想拔的时候不让鹅叫，此事应有隐蔽性，得有技巧。&lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;“利民不竭而民不知”&lt;/em&gt;&lt;/p&gt;
@@ -87,13 +226,14 @@
 &lt;h2 id=&quot;影响：&quot;&gt;&lt;a href=&quot;#影响：&quot; class=&quot;headerlink&quot; title=&quot;影响：&quot;&gt;&lt;/a&gt;影响：&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;统治者：&lt;/strong&gt; 为国家寻出了又一条财政来源，加强中央集权，强化君主绝对的统治地位，再次巩固家天下的统治模式。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;平民：&lt;/strong&gt; 无形中再次赋税再次加重，形成“ &lt;strong&gt;三重赋税&lt;/strong&gt; ”体制，贫民百姓生活日益困难，加大人民与统治者之间矛盾。&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;我的看法：&lt;/strong&gt; 这算是管仲给挖的坑吗，间接形成的君主暴政，贻害后世千年。尽管事实如此，但本质也都是时代的产物，没有这个管仲，历史还会造就出千千万个管仲。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;评价：&lt;/strong&gt; 这算是管仲给挖的坑吗，间接形成的君主暴政，贻害后世千年。尽管事实如此，但本质也都是时代的产物，没有这个管仲，历史还会造就出千千万个管仲。&lt;/p&gt;
 </content>
     
     <summary type="html">
     
       &lt;h2 id=&quot;起源：&quot;&gt;&lt;a href=&quot;#起源：&quot; class=&quot;headerlink&quot; title=&quot;起源：&quot;&gt;&lt;/a&gt;起源：&lt;/h2&gt;&lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;齐桓公：“财用不足若何？”&lt;/em&gt;&lt;br&gt;&lt;em&gt;管仲：“唯官山海之利为可而。”&lt;/em&gt;&lt;br&gt;&lt;strong&gt;至此，开始了中国两千多年的盐铁专卖历史。&lt;/strong&gt;&lt;br&gt;
+&lt;p&gt;&lt;em&gt;齐桓公：“财用不足若何？”&lt;/em&gt;&lt;br&gt;&lt;em&gt;管仲：“唯官山海之利为可而。”&lt;/em&gt;&lt;br&gt;&lt;strong&gt;至此，开始了中国两千多年的盐铁专卖历史。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
     
     </summary>
     
